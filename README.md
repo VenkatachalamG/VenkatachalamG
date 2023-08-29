@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VenkatachalamG
 - 👀 I’m interested in Python Programming and Cloud
 - 🌱 Currently studying for an Az-204 certification exam
-- 📫 How to reach me ...
+- 📫 My LinkedIn profile link : https://www.linkedin.com/in/venkatachalam-g-23966923b/
 
 <!---
 VenkatachalamG/VenkatachalamG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
