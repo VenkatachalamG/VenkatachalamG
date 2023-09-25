@@ -7,6 +7,8 @@
 <h4>Link :</h4>https://learn.microsoft.com/api/credentials/share/en-us/VenkatachalamG-2694/16FBEBDCFE98651?sharingId=5009BAF06C2D256C<br>
 ->Microsoft Certified :<b>Azure  AI Fundamentals:</b><br>
 <h4>Link :</h4>https://learn.microsoft.com/api/credentials/share/en-us/VenkatachalamG-2694/665854E9E67DEAEC?sharingId=5009BAF06C2D256C<br>
+->Microsoft Certified :<b>Azure  Developer Associate:</b><br>
+<h4>Link :</h4>https://learn.microsoft.com/api/credentials/share/en-us/VenkatachalamG-2694/37EE2BC8C296940B?sharingId=5009BAF06C2D256C<br>
 ->HackerRank Certified :<b>Python(Basic):</b><br>
 <h4>Link :</h4>https://www.hackerrank.com/certificates/538adfe9ec73<br>
 ->HackerRank Certified :<b>Problem Solving(Basic):</b><br>
