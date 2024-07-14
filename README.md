@@ -2,6 +2,7 @@
 - 👀 I’m interested in Python Programming and Cloud
 - 🌱 Currently excited and enthusiastic about Azure Cloud, Linux and DevOps
 - 📫 My LinkedIn profile link : https://www.linkedin.com/in/venkatachalam-g-23966923b/<br>
+- 📃 My Resume hosted in GitHub Pages : <strong><a link href ="https://venkatachalamg.github.io/">Click to view</a></strong><br>
 # Certifications
 
 ## Microsoft Certified
